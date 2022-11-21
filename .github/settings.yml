@@ -1,4 +1,5 @@
 repository:
   name: test-repository-settings-app
   default_branch: main
+  delete_branch_on_merge: true
   topics: cdktf
