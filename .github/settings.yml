@@ -1,0 +1,3 @@
+repository:
+  name: test-repository-settings-app
+  default_branch: main
