@@ -5,4 +5,4 @@ repository:
   topics: cdktf, js
   environments:
     - name: prod
-      wait_timer: 10
+      wait_timer: 1
