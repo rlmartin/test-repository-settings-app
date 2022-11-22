@@ -3,6 +3,6 @@ repository:
   default_branch: main
   delete_branch_on_merge: true
   topics: cdktf, js
-  environments:
-    - name: prod
-      wait_timer: 1
+environments:
+  - name: prod
+    wait_timer: 1
