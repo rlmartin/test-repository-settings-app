@@ -12,8 +12,3 @@ environments:
     deployment_branch_policy:
       protected_branches: false
       custom_branch_policies: true
-  - name: dev
-    wait_timer: 5
-    reviewers:
-      - id: 1110255
-        type: User
