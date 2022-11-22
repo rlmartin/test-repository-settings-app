@@ -5,7 +5,6 @@ repository:
   topics: cdktf, js
 environments:
   - name: prod
-    wait_timer: 1
     reviewers:
       - id: 1110255
         type: User
