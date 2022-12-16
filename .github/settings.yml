@@ -4,7 +4,7 @@ repository:
   delete_branch_on_merge: true
   topics: cdktf, js
 environments:
-  - name: prod
+  - name: dev
     wait_timer: 10
     reviewers:
       - id: 1110255
