@@ -9,3 +9,6 @@ environments:
     reviewers:
       - id: 1110255
         type: User
+    deployment_branch_policy:
+      custom_branches:
+        - main
