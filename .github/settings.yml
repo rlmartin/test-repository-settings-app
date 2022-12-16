@@ -10,5 +10,4 @@ environments:
       - id: 1110255
         type: User
     deployment_branch_policy:
-      protected_branches: false
-      custom_branch_policies: true
+      protected_branches: true
