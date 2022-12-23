@@ -12,7 +12,7 @@ collaborators:
   - username: rlmartin
     permission: admin
 branches:
-  - name: main2
+  - name: main
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 1
@@ -23,3 +23,4 @@ branches:
       enforce_admins: null
       required_linear_history: null
       restrictions: null
+  - name: main2
