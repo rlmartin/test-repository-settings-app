@@ -11,3 +11,15 @@ repository:
 collaborators:
   - username: rlmartin
     permission: admin
+branches:
+  - name: main2
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 1
+        require_code_owner_reviews: true
+      required_status_checks:
+        strict: true
+        contexts: []
+      enforce_admins: null
+      required_linear_history: null
+      restrictions: null
