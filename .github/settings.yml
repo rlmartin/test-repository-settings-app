@@ -24,3 +24,4 @@ branches:
       required_linear_history: null
       restrictions: null
   - name: main2
+    protection: null
