@@ -1,7 +1,6 @@
 repository:
   name: test-repository-settings-app
   default_branch: main
-  private: true
   has_issues: true
   has_wiki: false
   has_projects: false
