@@ -30,3 +30,5 @@ environments:
   - name: prod
     deployment_branch_policy:
       protected_branches: true
+  - name: dev
+  
