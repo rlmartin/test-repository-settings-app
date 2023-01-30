@@ -29,6 +29,4 @@ environments:
   - name: prod-plan
   - name: prod
     deployment_branch_policy:
-      custom_branches:
-        - main
-        - test1
+      protected_branches: true
